@@ -1,0 +1,46 @@
+*{
+	box-sizing: border-box;
+    border-color: blueviolet;
+}
+
+.container{
+	
+	margin: 100px auto;
+	border-radius: 10px;
+    text-align: center;
+    background-color: blueviolet;
+    width:300px;
+	height: auto;
+}
+
+#mainfield{
+	font-size: 15px;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5;
+}
+
+h2{
+    text-align: center;
+    text-decoration:underline;
+}
+#side1{
+    border-radius: 10px;
+    border-color: darkmagenta;
+    color:indigo;
+}
+#side2{
+    border-radius: 10px;
+    border-color: darkmagenta;
+    color:indigo;
+}
+#side3{
+    border-radius: 10px;
+    border-color: darkmagenta;
+    color:indigo;
+}
+#cal{
+    border-radius: 10px;
+    border-color: darkmagenta;
+    color:indigo;
+}
